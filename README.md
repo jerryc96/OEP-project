@@ -1,5 +1,7 @@
 # team10-Project
 
+Second Place Winner!
+
 An utility for updating the open exoplanet catelogue with external sources
 
 Copyright (c) 2016 [Chain Coders], All Right Reserved
